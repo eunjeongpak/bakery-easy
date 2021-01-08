@@ -11,11 +11,19 @@
     align-items: center;
 }
 
-.icon-row img{
-    height:60px;
-    width:60px;
+.icon-row__icon-img{
     background-color: #fff2b0;
     border-radius: 50%;
+    height:60px;
+    width:60px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-row__icon-img img{
+    height:30px;
+    width:30px;
 }
 
 

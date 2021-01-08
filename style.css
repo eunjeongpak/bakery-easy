@@ -4,6 +4,7 @@
 
 @import "home.css";
 @import "recipe-screen.css";
+@import "login.css";
 
 @import "components/status-bar.css";
 @import "components/icon-row.css";
